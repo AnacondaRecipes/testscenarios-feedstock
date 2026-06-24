@@ -17,7 +17,6 @@ build:
 requirements:
   host:
     - python
-    - pbr >=0.11
     - pip
     - hatchling
     - hatch-vcs
